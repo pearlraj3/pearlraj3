@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pearlraj3
+- 👋 Hi, I’m @raj
 - 👀 I’m interested in Software testing
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on ...
